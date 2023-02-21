@@ -7,5 +7,5 @@ This is a python script(s) for a discord bot that can watch bestBuy products and
 - Command to see all links
 - Command to see all links will also list item's title
 - Notifier will ping all users who added same link
-- >help page
+- bot help command
 - Add FileIO for persistence
