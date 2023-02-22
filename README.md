@@ -4,10 +4,9 @@ This is a python script(s) for a discord bot that can watch bestBuy products and
 This is made using discord.py https://github.com/Rapptz/discord.py
 
 ### My Plan
-- Command to add a link ✅DONE
-- Bot pings user when link is in stock and removes link
-- Command to see all links
-- Command to see all links will also list item's title
+- Command to add a link  ✅DONE
+- Bot pings user when link is in stock and removes link  ✅DONE
+- Command to see all links  ✅DONE
 - Notifier will ping all users who added same link
 - bot help command
 - Add FileIO for persistence
